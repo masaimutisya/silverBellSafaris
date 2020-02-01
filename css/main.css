@@ -1,0 +1,176 @@
+/*SECTION 1*/
+#section-1 .header{
+    background-color: #1c7430;
+    height: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#section-1 .header p{
+    color: ghostwhite;
+}
+
+
+/*SECTION 2*/
+#section-2 .navbar .nav-item .nav-link{
+    color: black;
+    font-weight: bold;
+    font-size: 0.9em;
+    padding: 18px;
+}
+
+#section-2 .navbar .navbar-brand img{
+    height: 70px;
+}
+
+/*HR INDEX PAGE*/
+hr.new4 {
+    border: 1px solid red;
+}
+
+/*#section-3{*/
+/*    height: 30vh;*/
+/*    background-size: cover;*/
+/*}*/
+
+/*SECTION 4*/
+#section-4{
+    text-align: center;
+}
+
+/*SECTION 5*/
+#section-5{
+    background-color: rgba(211, 211, 211, 0.11);
+    padding: 10px;
+}
+#section-5 .row {
+    margin-top: 30px;
+}
+
+#section-5 .card img:hover {
+    opacity: 0.8;
+}
+
+#section-5 .card .card-body .card-title:hover {
+    color: #1c7430;
+}
+
+/*SECTION 6*/
+#section-6 #section-6-right{
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: bold;
+    text-align: center;
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*height: 30vh;*/
+}
+
+#section-6 #section-6-left{
+    padding: 20px;
+    text-align: left;
+    /*color: #ad89e9;*/
+    /*height: 30vh;*/
+}
+
+#section-6 #section-6-right img{
+    height: 70vh;
+    width: 100%;
+}
+#section-6 #section-6-right img:hover{
+    opacity: 0.8;
+}
+
+/*SECTION 7*/
+#section-7{
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.11);
+    padding: 10px;
+}
+
+/*SECTION 8*/
+#section-8 .container{
+    background-color: #1d2124;
+    color: whitesmoke;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    height: 100px;
+    padding: 40px;
+}
+
+#section-form{
+    text-align: center;
+}
+
+/*SECTION 9*/
+#section-9{
+    display: block;
+    background-color: rgba(211, 211, 211, 0.11);
+    padding: 10px;
+}
+#section-9 .footer-icons .icons li{
+    height:20px;
+    float:left;
+    list-style-type: none;
+    width:70px;
+    padding:3px;
+    background-repeat: no-repeat;
+    background-position: center 30px;
+}
+
+/*SECTION FORM*/
+#section-form .form-row #contactUs .col{
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+.footer {
+    padding: 1rem;
+    background: #d0d0d0;
+}
+
+.footer .footer-icons li:last-of-type {
+    margin-right: 0;
+}
+
+.footer .footer-icons .fa {
+    font-size: 1.3rem;
+    color: green;
+}
+
+.footer .footer-icons .fa:hover {
+    color: #4a4a4a;
+    transition: color 0.3s ease-in;
+}
+
+/*TAB SECTION*/
+
+/* Style the links inside the navigation bar */
+.overview-nav a {
+    float: left;
+    display: block;
+    color: #3c3c3c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+}
+
+.overview-nav a:hover {
+    border-bottom: 3px solid green;
+}
+
+.overview-nav a.active {
+    border-bottom: 3px solid green;
+}
+#section-overview #section-overview-left{
+    padding: 20px;
+    text-align: left;
+    /*color: #ad89e9;*/
+    /*height: 30vh;*/
+}
+
+#section-overview #section-overview-right{
+    padding: 20px;
+}
